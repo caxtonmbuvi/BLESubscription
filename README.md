@@ -2,6 +2,13 @@
 
 This project is a Flutter application that allows you to find devices with reactive Bluetooth Low Energy (BLE) and connect to their services. It provides a user-friendly interface to discover nearby BLE devices and interact with their services.
 
+![permissions](https://github.com/caxtonmbuvi/BLESubscription/assets/57038806/787a7f6d-2b6f-4501-8d58-a24ee0dc9627)
+
+![loading](https://github.com/caxtonmbuvi/BLESubscription/assets/57038806/521d6ef8-5479-4718-9679-fbde874fac13)
+
+![reading](https://github.com/caxtonmbuvi/BLESubscription/assets/57038806/2a717d8d-3a13-4e7c-86f6-0473d24a4a10)
+
+
 ## Features
 
 - Device Discovery: The application scans for nearby BLE devices and displays them in a list.
